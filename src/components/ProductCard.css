@@ -90,7 +90,8 @@
   transform: scale(0.98);
 }
 
-/* ext 3: MEDIA QUERIES */
+
+/* TEST ext 3: MEDIA QUERIES */
 
 @media (max-width: 768px) {
   .product-card {
